@@ -1,18 +1,19 @@
 # fluent_aliyun_oss
 
-Copied ad edited source code from https://github.com/msidolphin/flutter_aliyun_oss_plugin for personal use.
+从 https://github.com/jiejie-dev/fluent_aliyun_oss 复制源代码供个人使用。
 
 [![Pub Version (including pre-releases)](https://img.shields.io/pub/v/fluent_aliyun_oss?include_prereleases)](https://pub.flutter-io.cn/packages/fluent_aliyun_oss) [![GitHub license](https://img.shields.io/github/license/jeremaihloo/fluent_aliyun_oss)](https://github.com/jeremaihloo/fluent_aliyun_oss/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/jeremaihloo/fluent_aliyun_oss?style=social)](https://github.com/jeremaihloo/fluent_aliyun_oss/stargazers)
 
-阿里云对象存储(aliyun oss)的flutter插件.
+阿里云对象存储(aliyun oss)的flutter插件，支持空安全！
 
 ## Getting Started
 
-First, add fluent_aliyun_oss as a dependency in your pubspec.yaml file.
+首先，在 pubspec.yaml 文件中添加 fluent_aliyun_oss 作为依赖项。
 
 ```yaml
 dependencies:
-  fluent_aliyun_oss: ^0.0.1
+  fluent_aliyun_oss: 
+    git: https://github.com/error-code/fluent_aliyun_oss.git
 ```
 
 ## Example
