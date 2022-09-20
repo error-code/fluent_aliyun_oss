@@ -1,8 +1,8 @@
 # fluent_aliyun_oss
 
-从 https://github.com/jiejie-dev/fluent_aliyun_oss 复制源代码供个人使用。
+从 https://github.com/jiejie-dev/fluent_aliyun_oss 复制源代码供个人使用，用法一致，加入空安全。
 
-[![Pub Version (including pre-releases)](https://img.shields.io/pub/v/fluent_aliyun_oss?include_prereleases)](https://pub.flutter-io.cn/packages/fluent_aliyun_oss) [![GitHub license](https://img.shields.io/github/license/jeremaihloo/fluent_aliyun_oss)](https://github.com/jeremaihloo/fluent_aliyun_oss/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/jeremaihloo/fluent_aliyun_oss?style=social)](https://github.com/jeremaihloo/fluent_aliyun_oss/stargazers)
+[![Pub Version (including pre-releases)](https://img.shields.io/pub/v/fluent_aliyun_oss?include_prereleases)](https://pub.flutter-io.cn/packages/fluent_aliyun_oss) [![GitHub license](https://img.shields.io/github/license/error-code/fluent_aliyun_oss)](https://github.com/error-code/fluent_aliyun_oss/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/error-code/fluent_aliyun_oss?style=social)](https://github.com/error-code/fluent_aliyun_oss/stargazers)
 
 阿里云对象存储(aliyun oss)的flutter插件，支持空安全！
 
